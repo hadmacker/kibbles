@@ -4,7 +4,7 @@ using NUnit.Framework;
 namespace TDot.Kibbles.Extensions.Tests
 {
     [TestFixture]
-    public class StringExtensionTests
+    public class StringToByteArrayExtensionTests
     {
         [Test]
         public void ToByteArray_MultipleFullBytes()

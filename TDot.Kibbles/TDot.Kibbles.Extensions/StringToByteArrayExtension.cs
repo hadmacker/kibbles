@@ -2,7 +2,7 @@
 
 namespace TDot.Kibbles.Extensions
 {
-    public static class StringExtensions
+    public static class StringToByteArrayExtension
     {
         /// <summary>
         /// Takes a hex string and returns the appropriate bytes. "E8E0" will return byte[] {0xE8, 0xE0}
