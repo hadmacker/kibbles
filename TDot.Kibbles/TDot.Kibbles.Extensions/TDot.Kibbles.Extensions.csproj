@@ -40,7 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AsciiSubstitutionOptions.cs" />
+    <Compile Include="ByteToAsciiStringExtension.cs" />
+    <Compile Include="Constants.cs" />
     <Compile Include="StringAsciiSubstitutionExtension.cs" />
     <Compile Include="StringToByteArrayExtension.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
